@@ -44,3 +44,8 @@ next-env.d.ts
 
 # dokumen penjelasan proyek (file Word biner; dibagikan lewat drive tim, bukan git)
 /Penjelasan proyek/
+
+# dokumen kerja lokal (alur demo dan data teknis untuk laporan), bukan bagian kode
+/ALUR-DEMO.md
+/LAPORAN-DATA-PROYEK.md
+/LAPORAN-DATA-PROYEK.docx
